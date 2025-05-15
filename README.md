@@ -5,6 +5,7 @@
 ### 🧠 Currently exploring
 - 🖥️ HTML
 - 🎨 CSS
+- 🤓 little bit of JavaScript
 - 🐧 Linux servers & networking sorcery 
 - ✍️ Japanese 日本語 — slowly but surely  
 
