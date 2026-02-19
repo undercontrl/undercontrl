@@ -11,7 +11,6 @@
 
 ### Fun facts
 
-- I talk to my terminal like it’s my nakama.  
 - I have **TOEFL** & **Cambridge** English certifications — but I still Google errors in panic.  
 - I'm on a long quest to learn Japanese (wish me がんばって).  
 - I once spent 3 hours debugging… a missing semicolon.
